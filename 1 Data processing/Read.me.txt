@@ -1,0 +1,6 @@
+Processing data is very important before actually testing it
+So it should be scaled, cleaned, encoded(if theres any categorical data),
+and make it more usable.
+this section looks after data processing
+We have Data.csv file in here, which we are going to process.
+We can save this as template which would be used in other algorithms
